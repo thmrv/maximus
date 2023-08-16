@@ -314,6 +314,25 @@ img.\30 4_foreground {
     padding: 2em;
 }
 
+.section.section-features {
+    margin: 2em;
+    max-width: 100%;
+    padding: 2em;
+}
+
+.features.middle {
+    padding: 1em;
+    text-align: center;
+    font-size: 1.4em;
+    white-space: nowrap;
+    border: 1px solid white;
+    font-family: 'FNormal';
+    max-width: 100%;
+    text-align: center;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
 .bg_fixed {
     position: fixed;
     height: 100%;
@@ -468,10 +487,13 @@ div#col_4 {
 .features.middle {
     padding: 1em;
     text-align: center;
-    font-size: 1.6em;
+    font-size: 1.4em;
     white-space: nowrap;
     border: 1px solid white;
     font-family: 'FNormal';
+    max-width: 100%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 .dates.lower.title {

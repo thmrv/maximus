@@ -12,7 +12,6 @@ import Cast from './components/section_cast'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div className={styles.description}>
         <Welcome></Welcome>
         <About></About>
         <Dates></Dates>
@@ -21,7 +20,6 @@ export default function Home() {
         <Author></Author>
         <Cast></Cast>
         <div className="bg_fixed"></div>
-      </div>
     </main>
   )
 }

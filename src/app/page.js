@@ -20,6 +20,7 @@ export default function Home() {
         <Features></Features>
         <Author></Author>
         <Cast></Cast>
+        <div className="bg_fixed"></div>
       </div>
     </main>
   )

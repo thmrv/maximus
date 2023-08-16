@@ -18,9 +18,10 @@
   min-height: 100vh;
   max-width: 900px;
   margin: auto;
-  background: url(/assets/images/bg.png);
+  /*background: url(/assets/images/bg.png);*/
   background-size: cover;
   background-attachment: fixed;
+  position: relative;
 }
 #body {
   background: black;

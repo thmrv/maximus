@@ -301,12 +301,27 @@ img.\30 4_foreground {
     align-items: end;
 }
 
-.section {
-    position: relative;
-}
-
 .venue_wrapper {
     margin-top: 0.5em;
+}
+
+.sectionfix {
+    /* position: absolute; */
+    max-width: 100%;
+}
+
+.section.section-cast {
+    padding: 2em;
+}
+
+.bg_fixed {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background: url(/assets/images/bg.png);
+    z-index: -1;
 }
 
 .item {
@@ -647,6 +662,8 @@ div#col_7 {
     padding-left: 0px;
 }
 
+
+
 div#col_8 {
     position: absolute;
     left: 45%;
@@ -668,4 +685,12 @@ body#body {
     background: url(/assets/images/bg_blurred.jpg);
     background-size: cover;
     background-attachment: fixed;
+}
+
+div{
+    color: white !important;
+}
+
+.right.wrapper {
+    color: black !important;
 }

@@ -320,6 +320,19 @@ img.\30 4_foreground {
     padding: 2em;
 }
 
+.welcome.overlay.wrapper{
+    height: max-content !important;
+}
+
+#vidwrap {
+    min-height: 200px;
+    width: 100%;
+    background: black url('/assets/images/thumbnail.png') no-repeat center;
+    overflow: hidden;
+    cursor: pointer;
+    background-size: cover;
+}
+
 .features.middle {
     padding: 1em;
     text-align: center;
@@ -469,9 +482,7 @@ div#col_4 {
     flex-direction: column;
 }
 
-.features.columns {
-
-}
+.features.columns {}
 
 .features.columns {
     display: flex;
@@ -699,7 +710,7 @@ div#col_8 {
     flex-direction: column;
 }
 
-@media (min-width:900px){
+@media (min-width:900px) {
     .page_main__GlU4n {
         max-width: 500px !important;
     }
@@ -711,7 +722,7 @@ body#body {
     background-attachment: fixed;
 }
 
-div{
+div {
     color: white !important;
 }
 

@@ -9,19 +9,19 @@ export default function Dates() {
     <div className="section section-dates">
       <div className="sectionfix">
         <div className="dates section_outer">
-          <div class="dates_outer">
+          <div className="dates_outer">
             <div className="dates_wrapper">
               <div className="datemonth">12 октября</div>
               <div className="venue_wrapper">
                 <img className="marker_ico" src="../assets/images/ico_1.png"></img>
-                <div class="city_venue">г. Москва<br></br>Crocus City Hall</div>
+                <div className="city_venue">г. Москва<br></br>Crocus City Hall</div>
               </div>
             </div>
             <div className="dates_wrapper">
               <div className="datemonth">16 октября</div>
               <div className="venue_wrapper">
                 <img className="marker_ico" src="../assets/images/ico_1.png"></img>
-                <div class="city_venue">г.Санкт-Петербург<br></br>КБЗ «Октрябрьский»</div>
+                <div className="city_venue">г.Санкт-Петербург<br></br>КБЗ «Октрябрьский»</div>
               </div>
             </div>
           </div>
@@ -36,7 +36,7 @@ export default function Dates() {
             <div className="dates lower list">
               <div className="dates list item">
                 <div className="bullet"></div>
-                <div className="item">спектакля</div>
+                <div className="item">театра</div>
               </div>
               <div className="dates list item">
                 <div className="bullet"></div>
@@ -44,7 +44,7 @@ export default function Dates() {
               </div>
               <div className="dates list item">
                 <div className="bullet"></div>
-                <div className="item">инди-рок музыки</div>
+                <div className="item">музыки</div>
               </div>
               <div className="dates list item">
                 <div className="bullet"></div>

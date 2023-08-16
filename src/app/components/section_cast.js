@@ -12,6 +12,19 @@ export default function Cast() {
       <div className="cast upper title">«Планета Максимус»</div>
     </div>
     <div className="cast casting-list">
+    <div className="cast person wrapper">
+        <div className="image-wrapper cast quad">
+          <img
+            src="../assets/images/petrov_quad_ratio.png"
+            alt="Petrov"
+            className="cast_portrait"
+          />
+        </div>
+        <div className="cast person text">
+          <div className="cast person suptitle">в главной роли</div>
+          <div className="cast person title">АЛЕКСАНДР ПЕТРОВ</div>
+        </div>
+      </div>
       <div className="cast person wrapper">
         <div className="image-wrapper cast quad">
           <img
@@ -36,19 +49,6 @@ export default function Cast() {
         <div className="cast person text">
           <div className="cast person suptitle">живой концерт в течение спектакля исполняет инди-группа</div>
           <div className="cast person title">OCEAN JET</div>
-        </div>
-      </div>
-      <div className="cast person wrapper">
-        <div className="image-wrapper cast quad">
-          <img
-            src="../assets/images/petrov_quad_ratio.png"
-            alt="Petrov"
-            className="cast_portrait"
-          />
-        </div>
-        <div className="cast person text">
-          <div className="cast person suptitle">в главной роли</div>
-          <div className="cast person title">АЛЕКСАНДР ПЕТРОВ</div>
         </div>
       </div>
     </div>

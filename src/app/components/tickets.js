@@ -14,7 +14,7 @@ export default function Tickets() {
         <div className="venue">Крокус Сити Холл</div>
       </div>
       <div className="right wrapper">
-        <a href="#">Билеты</a>
+        <a href="https://msk.kassir.ru/teatr/crocus-city-hall/sasha-petrov-dramaticheskoe-shou-planeta-maksimus_2023-10-12">Билеты</a>
       </div>
     </div>
     <div className="ticket wrapper">
@@ -27,7 +27,7 @@ export default function Tickets() {
         <div className="venue">БКЗ Октрябрьский</div>
       </div>
       <div className="right wrapper">
-        <a href="#">Билеты</a>
+        <a href="https://spb.kassir.ru/koncert/sasha-petrov-planeta-maksimus">Билеты</a>
       </div>
     </div>
   </div>

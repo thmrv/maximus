@@ -12,7 +12,7 @@ export default function Author() {
             className="maximus_logo_small"
           />
         </div>
-        <div className="author text-upper"><div className="inner">это экзистенциальные размышления о неизбежности смерти и бесконечности жизни.
+        <div className="author text-upper"><div className="inner">это размышления о неизбежности смерти и бесконечности жизни.
           <br></br><br></br>
           О том, как по-разному любят мужчины и женщины. О том, каким будет мир после тебя, и где будут жить твои мечты.</div>
         </div>

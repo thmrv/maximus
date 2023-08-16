@@ -18,10 +18,6 @@
     line-height: 1;
 }
 
-img.dates.image {
-    margin-top: -30%;
-}
-
 .dates.title {
     margin-top: 0.5em;
 }
@@ -331,6 +327,10 @@ img.\30 4_foreground {
     overflow: hidden;
     cursor: pointer;
     background-size: cover;
+}
+
+img.dates.image {
+    margin-top: -60%;
 }
 
 main{

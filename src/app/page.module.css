@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "ABold";
+  src: url("/assets/fonts/AcherusFeral-Bold.otf");
+}
+@font-face {
+  font-family: "ALight";
+  src: url("/assets/fonts/AcherusFeral-Light.otf");
+}
+@font-face {
+  font-family: "FNormal";
+  src: url("/assets/fonts/DaMiOne-Regular.ttf");
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+  max-width: 900px;
+  margin: auto;
+  background: url(/assets/images/bg.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+#body {
+  background: black;
+}

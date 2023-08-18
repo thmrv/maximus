@@ -15,7 +15,7 @@ export default function Cast() {
     <div className="cast person wrapper">
         <div className="image-wrapper cast quad">
           <img
-            src="../assets/images/petrov_quad_ratio.png"
+            src="../assets/images/petrov_quad_ratio.jpg"
             alt="Petrov"
             className="cast_portrait"
           />
@@ -28,7 +28,7 @@ export default function Cast() {
       <div className="cast person wrapper">
         <div className="image-wrapper cast quad">
           <img
-            src="../assets/images/channova_quad_ratio.png"
+            src="../assets/images/channova_quad_ratio.jpg"
             alt="Chanova"
             className="cast_portrait"
           />
@@ -41,7 +41,7 @@ export default function Cast() {
       <div className="cast person wrapper">
         <div className="image-wrapper cast quad">
           <img
-            src="../assets/images/oj_quad_ratio.png"
+            src="../assets/images/oj_quad_ratio.jpg"
             alt="Ocean Jet"
             className="cast_portrait"
           />

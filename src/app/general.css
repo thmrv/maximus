@@ -178,6 +178,18 @@ div {
     font-family: 'ABold';
 }
 
+.arrows.wrapper {
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 11;
+    display: none;
+}
+
 .gallery.modal {
     display: none;
     position: fixed;

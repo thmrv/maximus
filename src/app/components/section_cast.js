@@ -21,7 +21,7 @@ export default function Cast() {
           />
         </div>
         <div className="cast person text">
-          <div className="cast person suptitle">Главная роль</div>
+          <div className="cast person suptitle">Режиссёр, автор стихов, исполнитель главной роли</div>
           <div className="cast person title">АЛЕКСАНДР ПЕТРОВ</div>
         </div>
       </div>
@@ -34,7 +34,7 @@ export default function Cast() {
           />
         </div>
         <div className="cast person text">
-          <div className="cast person suptitle">Актриса</div>
+          <div className="cast person suptitle">Исполнительница главной роли в кинофрагментах</div>
           <div className="cast person title">ЕКАТЕРИНА ЧАННОВА</div>
         </div>
       </div>

@@ -4,13 +4,13 @@ let currentSlide = 1;
 
 export default function About() {
   const play = (e) => {
-    e.currentTarget.innerHTML = '<iframe width="100%" height="200" src="https://www.youtube.com/embed/Vt4eZntf85Q" frameborder="0"></iframe>';
+    e.currentTarget.innerHTML = '';
     e.currentTarget.style.background = 'none';
   }
   return (
     <div className="section section-about">
       <div className="sectionfix">
-        <div onClick={(e) => { play(e) }} id="vidwrap"></div>
+      <video width="100%" poster="/assets/images/thumbnail.png" height="100%" controls><source src="/assets/videos/invitation.mp4" type="video/mp4"></source>Видео не поддерживается.</video>
         <div className="gallery wrapper">
           <img
             src="../assets/images/title_gallery.svg"

@@ -28,7 +28,7 @@ export default function Dates() {
           <div className="dates text upper wrapper">
             <div className="dates suptitle">Состоится показ драматического шоу Саши Петрова</div>
             <div className="dates title">«ПЛАНЕТА МАКСИМУС»</div>
-            <div className="dates subtitle">Это его <span className="subtitle bolder">вторая авторская работа,</span>где он выступает как единственный актер на сцене, режиссер и сценарист.</div>
+            <div className="dates subtitle">Это его <span className="subtitle bolder">вторая авторская работа,</span> где он выступает как единственный актер на сцене и сценарист.</div>
           </div>
           <div className="dates text lower wrapper">
             <div className="dates lower title">драматическое шоу петрова</div>

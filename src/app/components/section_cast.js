@@ -8,7 +8,6 @@ export default function Cast() {
   return (
     <div className="section section-cast">
     <div className="cast upper text">
-      <div className="cast upper suptitle">В киноэпизодах шоу</div>
       <div className="cast upper title">«Планета Максимус»</div>
     </div>
     <div className="cast casting-list">

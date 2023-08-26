@@ -7,7 +7,7 @@ export default function Tickets() {
     <div className="ticket wrapper">
       <div className="left wrapper">
         <div className="date">12.10</div>
-        <div className="price">2000</div>
+        <div className="price">20:00</div>
       </div>
       <div className="middle wrapper">
         <div className="city">Москва</div>
@@ -20,7 +20,7 @@ export default function Tickets() {
     <div className="ticket wrapper">
       <div className="left wrapper">
         <div className="date">16.10</div>
-        <div className="price">1900</div>
+        <div className="price">19:00</div>
       </div>
       <div className="middle wrapper">
         <div className="city">Санкт-Петербург</div>

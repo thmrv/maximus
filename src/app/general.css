@@ -934,6 +934,7 @@ div {
 
     .cast.casting-list {
         display: flex;
+        flex-direction: column;
     }
 
     .tickets.wrapper {

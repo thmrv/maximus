@@ -53,7 +53,7 @@ export default function Dates() {
             </div>
           </div>
         </div>
-        <div className="image-wrapper">
+        <div className="image-wrapper dateimgwrap">
           <img src="../assets/images/section_03-fore.png" className="dates image"></img>
         </div>
       </div>

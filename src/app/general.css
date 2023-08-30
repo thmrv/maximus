@@ -937,6 +937,23 @@ div {
         flex-direction: column;
     }
 
+    img.dates.image {
+        margin-top: -60%;
+        object-fit: contain;
+        width: 100%;
+    }
+
+    img.gallery.modal-image {
+        height: 100%;
+        max-height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .gallery.modal {
+    padding: 4em;
+}
+
     .tickets.wrapper {
         padding-left: 10%;
         padding-right: 10%;
